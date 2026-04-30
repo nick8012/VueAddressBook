@@ -12,11 +12,11 @@ API/node_modules
 frontend/node_modules
 
 # Database file
-api/contacts.db
+API/contacts.db
 
 # Build Output
 frontend/dist
-api/dist
+API/dist
 
 # Environment files
 .env
