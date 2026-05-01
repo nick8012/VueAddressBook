@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vue-address-book/shared": "*",
     "axios": "^1.15.2",
-    "vue": "^3.5.32"
+    "vue": "^3.5.32",
+    "zod": "^4.4.1"
   },
   "devDependencies": {
     "@types/node": "^24.12.2",

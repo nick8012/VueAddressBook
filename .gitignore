@@ -8,8 +8,10 @@ pnpm-debug.log*
 lerna-debug.log*
 
 #Dependencies
+node_modules
 API/node_modules
 frontend/node_modules
+shared/node_modules
 
 # Database file
 API/contacts.db
@@ -19,7 +21,7 @@ frontend/dist
 API/dist
 
 # Environment files
-.env
+API/.env
 
 dist
 dist-ssr

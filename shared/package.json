@@ -1,0 +1,8 @@
+{
+  "name": "@vue-address-book/shared",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "zod": "^3.23.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "vue-address-book",
+  "private": true,
+  "workspaces": [
+    "API",
+    "frontend",
+    "shared"
+  ]
+}
